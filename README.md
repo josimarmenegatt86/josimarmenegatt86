@@ -89,5 +89,3 @@ Aqui compartilho:
 💼 LinkedIn: [https://www.linkedin.com/in/josimar-menegatt86/)
 
 ---
-
-⭐ **Se algum projeto ajudar você, considere deixar uma estrela!**
