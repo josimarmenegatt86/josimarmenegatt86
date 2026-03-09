@@ -65,8 +65,11 @@ Aqui compartilho:
 ## 🚀 Projetos em destaque
 
 🔹 Exercícios de **Lógica de Programação**
-🔹 Projetos em **Python para iniciantes**
+
+🔹 Projetos em **Python**
+
 🔹 Exemplos de **HTML e CSS**
+
 🔹 Materiais didáticos de programação
 
 ---
