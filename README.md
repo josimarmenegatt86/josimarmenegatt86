@@ -81,9 +81,12 @@ Aqui compartilho:
 ## 📫 Contato
 
 💼 GitHub: https://github.com/josimarmenegatt86
-📧 E-mail: seuemail@email.com  
-💬 WhatsApp: +55 (49) 99981 3861  
-💼 LinkedIn: [https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/josimar-menegatt-09ba8b36/)
+
+📧 E-mail: josimar.menegat@gmail.com
+
+💬 WhatsApp: +55 (49) 99981 3861 
+
+💼 LinkedIn: [https://www.linkedin.com/in/josimar-menegatt86/)
 
 ---
 
