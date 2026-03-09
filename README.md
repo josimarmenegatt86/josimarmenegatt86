@@ -26,10 +26,9 @@ Também desenvolvo **materiais didáticos, exercícios e projetos práticos** pa
 
 Aqui compartilho:
 
-✔ Exercícios de **lógica de programação**
-✔ Projetos simples em **Python para iniciantes**
-✔ Exemplos de **HTML e CSS**
-✔ Materiais de apoio para alunos
+✔ Projetos simples e complexos em **Python para iniciantes**  
+✔ Exemplos de **HTML e CSS**  
+✔ Materiais de apoio para alunos  
 ✔ Projetos educacionais aplicados à tecnologia
 
 ---
