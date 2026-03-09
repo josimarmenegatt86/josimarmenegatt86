@@ -68,7 +68,9 @@ Aqui compartilho:
 
 🔹 Projetos em **Python**
 
-🔹 Exemplos de **HTML e CSS**
+🔹 Projetos **HTML e CSS**
+
+🔹 Projetos **SQL**
 
 🔹 Materiais didáticos de programação
 
