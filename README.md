@@ -57,7 +57,6 @@ Aqui compartilho:
 * 📊 Automação e ferramentas digitais
 * 🎓 Ensino de tecnologia
 
----
 
 
 
@@ -65,15 +64,7 @@ Aqui compartilho:
 
 ## 🚀 Projetos em destaque
 
-🔹 Exercícios de **Lógica de Programação**
 
-🔹 Projetos em **Python**
-
-🔹 Projetos **HTML e CSS**
-
-🔹 Projetos **SQL**
-
-🔹 Materiais didáticos de programação
 
 ---
 
