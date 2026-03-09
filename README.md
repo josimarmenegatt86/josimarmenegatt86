@@ -51,6 +51,7 @@ Aqui compartilho:
 * 🧩 Lógica de Programação
 * 🐍 Desenvolvimento com Python
 * 🌐 Desenvolvimento Web
+* 🎮 Desenvolvimento de Jogos Digitais
 * 🏭 Tecnologias da Indústria 4.0
 * 📊 Automação e ferramentas digitais
 * 🎓 Ensino de tecnologia
