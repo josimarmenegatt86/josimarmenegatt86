@@ -29,7 +29,7 @@ Aqui compartilho:
 
 ✔ Projetos simples e complexos em **Python**  
 ✔ Projetos Analise de Dados e Ciencia de Dados  em **SQL e Linguagem R**  
-✔ Exemplos de **HTML e CSS**  
+✔ Projetos em **HTML e CSS**  
 ✔ Projetos educacionais aplicados à tecnologia
 
 ---
