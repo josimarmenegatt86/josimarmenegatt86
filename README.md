@@ -14,6 +14,7 @@ Sou professor na área de tecnologia, atuando com formação de estudantes em:
 * 🧠 Lógica de Programação
 * 🐍 Python
 * 🌐 Programação Web (HTML e CSS)
+* 🎮 Desenvolvimento de Jogos Digitais (Scratch e Construct 3)
 * 🏭 Indústria 4.0
 * 🖥 Operador de Computadores
 
