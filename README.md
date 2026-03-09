@@ -1,7 +1,7 @@
 # 👨‍🏫 Josimar Menegatt
 
 💻 **Professor de Tecnologia | Programação | Indústria 4.0**
-🚀 Apaixonado por ensino de programação, lógica computacional e desenvolvimento web.
+##🚀 Apaixonado por ensino de programação, lógica computacional e desenvolvimento web.
 
 ---
 
